@@ -1,0 +1,35 @@
+@import 'variables';
+.readmore{
+    background-color:white ;
+    color:$coulour1button;
+    width: 170px; /* Définit la largeur du bouton */
+    height: 60px; 
+    border-radius: 5px; 
+    letter-spacing: 2px;
+    line-height: 0px;
+    border: 1px solid $coulour1button;
+    font-weight: bold;
+    height: 30px;
+    width: 130px;
+    
+  }
+  .previous{
+    background-color:black;
+    color:white ;
+    width: 170px; /* Définit la largeur du bouton */
+    height: 60px; 
+    border-radius: 20px; 
+    border: none;
+    font-weight: bold;
+    height: 30px;
+    width: 130px;
+  }
+  #home{
+    color: $colortexthome;
+}
+.container{
+    margin-left: 343px;
+}
+.nav-item {
+    margin-right: 60px;
+}
